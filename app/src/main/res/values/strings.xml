@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Checkbox_check_uncheck</string>
+
+
+
+
+    <string-array name="month_array">
+        <item>Jan</item>
+        <item>feb</item>
+        <item>mar</item>
+        <item>apr</item>
+        <item>may</item>
+        <item>jun</item>
+        <item>jul</item>
+        <item>aug</item>
+        <item>sep</item>
+        <item>oct</item>
+        <item>nov</item>
+        <item>dec</item>
+    </string-array>
+
+
+</resources>
